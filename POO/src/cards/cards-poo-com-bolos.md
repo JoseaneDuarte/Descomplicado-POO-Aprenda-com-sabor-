@@ -1,4 +1,4 @@
-## 🃏 Card 1: O que é uma Classe?
+ 🃏 Card 1: O que é uma Classe?
 
 📦 Classe 
 É como uma receita de bolo. Diz o que o bolo tem e o que ele pode fazer.
