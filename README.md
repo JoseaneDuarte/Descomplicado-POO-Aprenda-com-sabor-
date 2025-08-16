@@ -25,7 +25,7 @@ Abstração-	Usa os métodos sem se preocupar com os detalhes internos
 Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/Descomplicando-POO-com-Java-Aprenda-com-sabor-.git
+git clone https://github.com/seu-usuario/Descomplicando-POO-com-Java-Aprenda-com-sabor-.git 
 Abra o projeto em sua IDE Java favorita (Eclipse, IntelliJ, VS Code).
 
 Execute a classe Main para ver os bolos em ação!
