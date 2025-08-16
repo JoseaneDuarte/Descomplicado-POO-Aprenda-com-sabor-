@@ -4,7 +4,7 @@ Aprenda os principais conceitos de **Programação Orientada a Objetos (POO)** e
 
 ---
 
-## 🃏 Card 1: O que é uma Classe?
+ 🃏 Card 1: O que é uma Classe?
 
 📦 **Classe** é como uma receita de bolo.  
 Ela diz o que o bolo tem e o que ele pode fazer.
