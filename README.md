@@ -1,4 +1,4 @@
-![Banner do projeto](assets/Poo.png)
+
 📌 Sobre o projeto
 Esse projeto foi criado com o objetivo de ensinar os principais conceitos de Programação Orientada a Objetos (POO) de forma leve, prática e com exemplos que todo mundo entende — usando bolos! 🎂
 
