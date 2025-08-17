@@ -13,16 +13,17 @@ Uma Main que mostra tudo funcionando na prática
 
 Um mini baralho de cards explicativos pra facilitar o aprendizado
 
-🧠 Conceitos abordados
-Conceito-	Explicação casual
-Classe-	Receita do bolo
-Objeto-	Bolo pronto
-Herança- BoloDeFesta puxa tudo de Bolo
-Polimorfismo-	Cada bolo mostra suas infos do seu jeito
-Encapsulamento-	Protege os ingredientes com get e set
-Abstração-	Usa os métodos sem se preocupar com os detalhes internos
+##🧠 Conceitos abordados##
 
-🚀 Como rodar
+Conceito:	Explicação casual -
+Classe:	Receita do bolo-
+Objeto:	Bolo pronto - 
+Herança: BoloDeFesta puxa tudo de Bolo - 
+Polimorfismo:	Cada bolo mostra suas infos do seu jeito -
+Encapsulamento:	Protege os ingredientes com get e set -
+Abstração:	Usa os métodos sem se preocupar com os detalhes internos -
+
+##🚀 Como rodar ##
 Clone o repositório:
 
 bash
@@ -31,7 +32,7 @@ Abra o projeto em sua IDE Java favorita (Eclipse, IntelliJ, VS Code).
 
 Execute a classe Main para ver os bolos em ação!
 
-🎓 Para quem é esse projeto?
+##🎓 Para quem é esse projeto? ##
 Estudantes iniciantes em Java
 
 Quem quer entender POO de forma prática
@@ -40,7 +41,7 @@ Professores que buscam exemplos didáticos
 
 Curiosos que gostam de bolos e código 😄
 
-📦 Extras
+##📦 Extras ##
 ✅ Cards explicativos em formato Markdown
 
 ✅ Comentários em linguagem casual
